@@ -1,8 +1,7 @@
 # Hello World!
 #### *Thanks for visiting my lame profile Btw*
-My name is Faiz.
-I want to be a backend developer.
-I would love to get feedbacks and advices from my seniors.
+- My name is Faiz.
+- I want to be a backend developer.
 
 ### Languages :
 <img src="https://github.com/Faiz-Khan-01/Faiz-Khan-01/blob/cee6ac852255cce38808a9446136262b24c702b9/3d-python-programming-language-logo-free-png.webp" width="40">
