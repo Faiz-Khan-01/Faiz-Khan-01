@@ -16,11 +16,7 @@ Name | Description
 [XFCE](https://www.xfce.org/) | My System Never Breaks ;)
 
 ### You Can Connect With Me On 
-<a href="https://www.instagram.com/dead.zeng/">
-  <img src="https://github.com/Faiz-Khan-01/Faiz-Khan-01/blob/cee6ac852255cce38808a9446136262b24c702b9/3d-render-instagram-logo-icon-isolated-on-transparent-background-free-png.png" width="50">
-</a>
-<a href="https://discord.gg/nkktt4Vb">
-  <img src="https://github.com/Faiz-Khan-01/Faiz-Khan-01/blob/cee6ac852255cce38808a9446136262b24c702b9/free-discord-3d-icon-download-in-png-blend-fbx-gltf-file-formats--twitter-logo-social-media-pack-logos-icons-7516828.png" width="50">
-</a>
+[Instagram](https://www.instagram.com/dead.zeng/) | [Discord](https://discord.gg/nkktt4Vb)
+--- | ---
 
 ## Idk What to Say Else....
