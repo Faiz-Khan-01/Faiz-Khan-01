@@ -1,5 +1,5 @@
 # Hello World!
-### Hi I'm Faiz
+### Hi, I'm Faiz
 ### Welcome to my GitHub
 - I want to be a Backend Developer.
 
