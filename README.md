@@ -16,6 +16,6 @@ Name | Description
 [XFCE](https://www.xfce.org/) | My System Never Breaks ;)
 
 ### You Can Connect With Me On 
-[Instagram](https://www.instagram.com/dead.zeng/
+Instagram - dead.zeng
 
 ## Idk What to Say Else....
