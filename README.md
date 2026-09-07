@@ -2,6 +2,7 @@
 ### Hi, I'm Faiz
 ### Welcome to my GitHub
 - I want to be a Software Developer.
+- I'm a Linux Enthusiast
 
 ## Languages :
 <img src="https://github.com/Faiz-Khan-01/Faiz-Khan-01/blob/30fb85f0dd9bb1aa59be283ffb0a1c664e16abae/bash-shell.png" width="40"> <img src="https://github.com/Faiz-Khan-01/Faiz-Khan-01/blob/4be1365d75ae0603627a31b4e3874d57c188f942/Python-Emblem.png" width="70">  <img src="https://github.com/Faiz-Khan-01/Faiz-Khan-01/blob/bfbc6fe0b9041c1cdc93c920aac829b74f37c6b0/RustLogo.webp" width="40">
@@ -19,4 +20,4 @@ Name | Description
 Instagram | [dead.zeng](https://www.instagram.com/dead.zeng/)
   --- |---
 
-## Idk What to Say Else....
+## Hope You Have a Good Day :)
