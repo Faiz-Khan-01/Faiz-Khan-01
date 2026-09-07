@@ -16,7 +16,7 @@ Name | Description
 [**Cortile**](https://github.com/leukipp/cortile) | Fast and Stable Tiling Manager
 [**XFCE**](https://www.xfce.org/) | My System Never Breaks ;)
 
-## You Can Connect With Me On 
+## You Can Connect With Me On :
 Instagram | [dead.zeng](https://www.instagram.com/dead.zeng/)
   --- |---
 
