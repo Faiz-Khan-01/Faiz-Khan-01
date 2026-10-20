@@ -11,7 +11,7 @@
 Name | Description
 --- | ---
 **Fish** | Smart and user-friendly command line shell
-**VSCodium** | Community driven binary distribution of VS Code.
+**VSCodium** | VSCode but without microsoft
 **Firefox** | Open Source and Lightweight Browser
 **CachyOS** | Gaming Distro based on Arch Linux
 **Kitty** | Fast and Feature-rich Terminal
