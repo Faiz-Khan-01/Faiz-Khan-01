@@ -10,12 +10,11 @@
 ## Tools I Use :
 Name | Description
 --- | ---
-[**Fish**](https://fishshell.com/) | Smart and user-friendly command line shell
-[**VSCodium**](https://vscodium.com/) | Community driven binary distribution of VS Code.
-[**Firefox**](https://firefox.com/) | Open Source and Lightweight Browser
-[**Cortile**](https://github.com/leukipp/cortile) | Fast and Stable Tiling Manager
-[**XFCE**](https://www.xfce.org/) | My System Never Breaks ;)
-
+**Fish** | Smart and user-friendly command line shell
+**VSCodium** | Community driven binary distribution of VS Code.
+**Firefox** | Open Source and Lightweight Browser
+**CachyOS** | Gaming Distro based on Arch Linux
+**Kitty** | Fast and Feature-rich Terminal
 ## You Can Connect With Me On :
 Instagram | [dead.zeng](https://www.instagram.com/dead.zeng/)
   --- |---
